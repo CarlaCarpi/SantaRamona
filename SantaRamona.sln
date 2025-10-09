@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución",
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaRamona.Backoffice", "santa-ramona-Backend-Backoffice\SantaRamona.Backoffice\SantaRamona.Backoffice.csproj", "{B8572331-A89E-EF13-AD45-78F9033BB327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{1670AF71-39C6-4716-85FA-38E09CD51899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1670AF71-39C6-4716-85FA-38E09CD51899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1670AF71-39C6-4716-85FA-38E09CD51899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8572331-A89E-EF13-AD45-78F9033BB327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8572331-A89E-EF13-AD45-78F9033BB327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8572331-A89E-EF13-AD45-78F9033BB327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8572331-A89E-EF13-AD45-78F9033BB327}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
